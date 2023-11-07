@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>asm03spring</artifactId>
+	<artifactId>MedicalBookingSystem</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>asm03spring</name>
 	<description>Demo project for Spring Boot</description>
